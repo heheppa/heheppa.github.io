@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: heheppa # the main title
 
-tagline: 얼렁뚱땅 만들어진 블로그 # it will display as the subtitle
+tagline: 얼렁뚱땅 만들어진 블로그그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
