@@ -26,5 +26,12 @@ $code-icon-width: 1.75rem !default;
 
 /* fonts */
 
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
+@font-face {
+  font-family: 'memomentKkukkkuk';
+  src: url('/assets/fonts/memomentKkukkkuk.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-family-base: 'memomentKkukkkuk', 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: Lato, 'memomentKkukkkuk', 'Microsoft Yahei', sans-serif !default;
